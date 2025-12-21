@@ -20,12 +20,13 @@ Country = "🇮🇳"
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://git-scm.com/)
 
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rifat-noorul-a08ab4373?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rifat-noorul-a08ab4373?utm_source=share_via&utm_content=profile&utm_medium=member_android" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/rifatn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rifatn" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/rifatn_ecs25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rifatn_ecs25" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rifat-noorul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rifat-noorul" height="30" width="40" /></a>
+<a href="https://kaggle.com/rifatn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rifatn" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rifatn_ecs25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rifatn_ecs25" height="30" width="40" /></a>
 </p>
+
 
 
 <br />
