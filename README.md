@@ -12,6 +12,7 @@ Country = "🇮🇳"
 
 
 - 🌱 I’m currently pursuing my B.E. in CSE at Rathinam Technical Campus
+- 👀 Interested in Hands-On learning new things to work on projects
 
 ### Languages and Tools I Love💙
 [<img align="left" alt="C Programming" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />](https://www.cprogramming.com/)
